@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Phone Grid</title>
     <link rel="stylesheet" href="main.css">
-    <link rel="stylesheet" href="minireset.min.css">
+    <link rel="stylesheet" href="minireset.css">
     <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
 </head>
 <body>
