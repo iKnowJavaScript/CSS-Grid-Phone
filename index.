@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Phone Grid</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="minireset.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
+</head>
+<body>
+    <div class="container">
+            <hr class="topRuler">
+            <div class="display" >
+                    <ul class="social">
+                        <li><a href="#">
+                            <i class="fas fa-phone" style="font-size:2em; color:Tomato"></i></a>
+                        </li>
+                        <li><a href="#">
+                            <i class="fas fa-camera" style="font-size:2em; color:Tomato"></i></a>
+                        </li>
+                        <li><a href="#">
+                            <i class="fas fa-address-book" style="font-size:2em; color:Tomato"></i></a>
+                        </li>
+                        <li><a href="#">
+                            <i class="fab fa-android" style="font-size:2em; color:Tomato"></i></a>
+                        </li>
+                        <li><a href="#">
+                            <i class="fas fa-calendar-alt" style="font-size:2em; color:Tomato"></i></a>
+                        </li>
+                        <li><a href="#">
+                            <i class="fas fa-bullhorn" style="font-size:2em; color:Tomato"></i></a>
+                        </li>
+                        <li><a href="#">
+                            <i class="fas fa-envelope" style="font-size:2em; color:Tomato"></i></a>
+                        </li>
+                        <li><a href="#">
+                            <i class="fab fa-bluetooth" style="font-size:2em; color:Tomato"></i></a>
+                        </li>
+                        <li><a href="#">
+                            <i class="fab fa-autoprefixer" style="font-size:2em; color:Tomato"></i></a>
+                        </li>
+                    </ul>
+            </div>
+            <div class="buttons">
+                    <button class="buttonGreen largeButton phoneButton" type="button"><i class="fas fa-phone" style="font-size:1.4em;"></i></button>
+                    <button class="buttonBlue largeButton phoneButton" type="button"><i class="fas fa-circle"></i></button>
+                    <button class="buttonRed largeButton phoneButton" type="button"><i class="fas fa-long-arrow-alt-right  " style="font-size:1.4em;"></i></button>
+                    <button data-value class="phoneButton" type="button">1</button>
+                    <button data-value class="phoneButton" type="button">2</button>
+                    <button data-value class="phoneButton" type="button">3</button>
+                    <button data-value class="phoneButton" type="button">4</button>
+                    <button data-value class="phoneButton" type="button">5</button>
+                    <button data-value class="phoneButton" type="button">6</button>
+                    <button data-value class="phoneButton" type="button">7</button>
+                    <button data-value class="phoneButton" type="button">8</button>
+                    <button data-value class="phoneButton" type="button">9</button>
+                    <button data-value class="phoneButton" type="button">*</button>
+                    <button data-value class="phoneButton" type="button">0</button>
+                    <button data-value class="phoneButton" type="button">#</button>
+            </div>
+            <hr class="bottomRuler">
+        </div>
+    </div>
+</body>
+</html>
